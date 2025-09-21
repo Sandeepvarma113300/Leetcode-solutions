@@ -16,4 +16,8 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
