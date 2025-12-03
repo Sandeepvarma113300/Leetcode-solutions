@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
 ## Math
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Greedy
