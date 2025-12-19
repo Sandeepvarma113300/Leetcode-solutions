@@ -36,6 +36,7 @@
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
