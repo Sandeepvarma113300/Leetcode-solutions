@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -28,6 +29,7 @@
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Math
 |  |
 | ------- |
