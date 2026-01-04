@@ -14,6 +14,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -45,6 +46,7 @@
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
