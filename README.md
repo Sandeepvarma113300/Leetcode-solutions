@@ -98,4 +98,12 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
