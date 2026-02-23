@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -92,6 +94,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0067-add-binary) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Binary Search
