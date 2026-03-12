@@ -13,6 +13,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -71,6 +72,7 @@
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
@@ -127,10 +130,12 @@
 | [0476-number-complement](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
