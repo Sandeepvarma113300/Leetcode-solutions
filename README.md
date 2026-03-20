@@ -19,6 +19,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1390-four-divisors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -107,6 +108,7 @@
 | [0067-add-binary](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
