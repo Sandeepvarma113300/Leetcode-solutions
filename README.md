@@ -24,6 +24,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3701-compute-alternating-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
