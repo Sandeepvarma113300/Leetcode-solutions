@@ -55,6 +55,7 @@
 | [0048-rotate-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -102,6 +104,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
