@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
