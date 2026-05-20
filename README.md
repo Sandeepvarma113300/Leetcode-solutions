@@ -22,6 +22,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1390-four-divisors) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
