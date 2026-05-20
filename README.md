@@ -26,6 +26,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -41,6 +42,7 @@
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -156,6 +158,7 @@
 | [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
