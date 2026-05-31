@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0048-rotate-image) |
@@ -96,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -106,6 +108,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
