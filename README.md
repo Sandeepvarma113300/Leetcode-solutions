@@ -104,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -136,6 +137,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -212,7 +214,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
