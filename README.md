@@ -48,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +104,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
