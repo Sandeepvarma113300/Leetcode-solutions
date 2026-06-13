@@ -76,6 +76,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -122,6 +123,7 @@
 | [0392-is-subsequence](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -171,6 +173,7 @@
 | [0054-spiral-matrix](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -246,4 +249,5 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
