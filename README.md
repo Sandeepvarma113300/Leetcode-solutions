@@ -53,6 +53,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -73,6 +74,7 @@
 | [0205-isomorphic-strings](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
