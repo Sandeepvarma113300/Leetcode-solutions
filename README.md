@@ -88,6 +88,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3456-find-special-substring-of-length-k](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3456-find-special-substring-of-length-k) |
+| [3931-check-adjacent-digit-differences](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Math
 |  |
 | ------- |
