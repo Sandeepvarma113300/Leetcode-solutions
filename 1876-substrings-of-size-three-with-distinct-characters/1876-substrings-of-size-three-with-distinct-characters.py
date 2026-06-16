@@ -27,3 +27,35 @@ class Solution:
             res += check(window)
 
         return res
+    """
+    class Solution:
+    def countGoodSubstrings(self, s: str) -> int:
+        freq = {}
+        k = 3
+        res = 0
+
+        for i in s[:k]:
+            if i in freq:
+                freq[i] += 1
+            else:
+                freq[i] = 1
+
+        if len(freq) == 3:
+            res += 1
+
+        for i in range(k, len(s)):
+            left = s[i-k]
+
+            freq[left] -= 1
+            if freq[left] == 0:
+                del freq[left]
+
+            if s[i] in freq:
+                freq[s[i]] += 1
+            else:
+                freq[s[i]] = 1
+
+            if len(freq) == 3:
+                res += 1
+
+        return res"""
