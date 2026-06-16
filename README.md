@@ -31,6 +31,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -231,6 +232,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
