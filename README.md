@@ -29,6 +29,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -248,6 +251,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
