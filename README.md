@@ -10,6 +10,7 @@
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0338-counting-bits) |
