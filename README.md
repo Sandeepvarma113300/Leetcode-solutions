@@ -74,6 +74,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3456-find-special-substring-of-length-k](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3456-find-special-substring-of-length-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3931-check-adjacent-digit-differences](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Math
 |  |
