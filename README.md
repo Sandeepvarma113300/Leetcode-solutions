@@ -21,6 +21,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@
 | [0290-word-pattern](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -297,8 +299,13 @@
 | [0020-valid-parentheses](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
