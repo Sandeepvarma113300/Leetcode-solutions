@@ -8,11 +8,10 @@ class Solution:
             if stack:
                 res[i]=stack[-1]
             stack.append(nums2[i])
-        mp={}
+        freq={}
         for i in range(len(nums2)):
-            mp[nums2[i]]=res[i]
+            freq[nums2[i]]=res[i]
         ans=[]
         for i in nums1:
-            ans.append(mp[i])
+            ans.append(freq[i])
         return ans
-        
