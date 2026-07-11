@@ -27,6 +27,7 @@
 | [0605-can-place-flowers](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -303,6 +304,7 @@
 | [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -311,4 +313,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
