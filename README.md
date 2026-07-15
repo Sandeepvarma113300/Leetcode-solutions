@@ -133,6 +133,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Counting
 |  |
@@ -320,4 +321,8 @@
 | [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
