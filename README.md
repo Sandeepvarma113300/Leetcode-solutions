@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0048-rotate-image) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -185,6 +187,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
