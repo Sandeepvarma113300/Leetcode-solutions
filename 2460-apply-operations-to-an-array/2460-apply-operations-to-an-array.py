@@ -6,11 +6,10 @@ class Solution:
                 nums[l]*=2
                 nums[i]=0
             l=l+1
-        b=nums
         p=0
-        for i in range(len(b)):
-            if b[i]!=0:
-                b[p],b[i]=b[i],b[p]
+        for i in range(len(nums)):
+            if nums[i]!=0:
+                nums[p],nums[i]=nums[i],nums[p]
                 p+=1
-        return b
+        return nums
         
