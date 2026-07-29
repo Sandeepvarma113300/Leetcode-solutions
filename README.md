@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -155,6 +156,7 @@
 | [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
