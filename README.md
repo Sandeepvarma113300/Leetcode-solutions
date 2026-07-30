@@ -116,6 +116,7 @@
 | [1528-shuffle-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3456-find-special-substring-of-length-k](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3456-find-special-substring-of-length-k) |
@@ -140,6 +141,7 @@
 | [1390-four-divisors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -185,6 +187,7 @@
 | [0605-can-place-flowers](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
