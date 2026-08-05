@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -73,6 +74,7 @@
 | [0001-two-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
