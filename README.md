@@ -72,6 +72,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [1768-merge-strings-alternately](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
