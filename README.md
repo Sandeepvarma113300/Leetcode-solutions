@@ -60,6 +60,7 @@
 | [1528-shuffle-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -343,6 +344,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
 |  |
 | ------- |
