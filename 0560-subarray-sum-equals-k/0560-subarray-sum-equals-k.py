@@ -11,4 +11,5 @@ class Solution:
                 freq[s]+=1
             else:
                 freq[s]=1
+        print(freq)
         return c
