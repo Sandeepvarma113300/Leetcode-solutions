@@ -166,6 +166,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Counting
