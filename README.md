@@ -57,6 +57,7 @@
 | [1390-four-divisors](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -385,12 +386,14 @@
 | [0844-backspace-string-compare](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Number Theory
 |  |
 | ------- |
