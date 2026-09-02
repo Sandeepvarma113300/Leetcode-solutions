@@ -78,6 +78,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sandeepvarma113300/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
